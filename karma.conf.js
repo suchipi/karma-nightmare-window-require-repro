@@ -15,8 +15,7 @@ module.exports = config => {
       }
     ],
     nightmareOptions: {
-      show: true,
-      openDevTools: true
+      show: true
     }
   });
 };
