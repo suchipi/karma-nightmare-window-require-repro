@@ -1,0 +1,11 @@
+{
+  "name": "karma-nightmare-window-require-repro",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "karma": "^2.0.0",
+    "karma-jasmine": "^1.1.1",
+    "karma-webpack": "^3.0.0"
+  }
+}
